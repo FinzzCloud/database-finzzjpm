@@ -9,5 +9,12 @@
     }
   ],
   "premium": [],
-  "owner": []
+  "owner": [
+    {
+      "telegramId": "7298971553",
+      "nama": "User",
+      "addedBy": "@finzzmd",
+      "tanggal": "14/3/2026, 13.27.32"
+    }
+  ]
 }
