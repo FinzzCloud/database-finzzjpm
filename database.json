@@ -29,7 +29,14 @@
       "tanggal": "14/3/2026, 14.46.54"
     }
   ],
-  "premium": [],
+  "premium": [
+    {
+      "telegramId": "7015539808",
+      "nama": "User",
+      "addedBy": "@finzzmd",
+      "tanggal": "14/3/2026, 14.48.37"
+    }
+  ],
   "owner": [
     {
       "telegramId": "7298971553",
